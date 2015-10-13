@@ -1,0 +1,19 @@
+
+PROBLEM: Make at least two new kinds of dancers. This will require creating a new factory function for each one (and making sure that your new javascript files are included in dancefloor.html).
+
++Add a link in the top bar of dancefloor.html to create a dancer of each new type you create
++Write tests for new types. Use spec/blinkyDancerSpec.js as a template for new test files, 
+and make sure to include them in SpecRunner.html.
+
+DUE: 8:30PM OCTOBER 13TH, T-5 HOURS
+
+TEST: 
+
+OVERVIEW: Ideas:
+
+1. Write tests for chicken dancer
+2. Implement a functional version of chickenDancer
+
+
+PSEUDO-CODE:
+
